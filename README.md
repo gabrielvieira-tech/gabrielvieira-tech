@@ -1,4 +1,4 @@
-<h1>Hey, I'm Gabriel, an <a href="https://www.linkedin.com/in/gabriel-vieira-vaz-516427353/">IT Specialist</a>🧠🔧</h1>
+<h1>Hey😄, I'm Gabriel, an <a href="https://www.linkedin.com/in/gabriel-vieira-vaz-516427353/">IT Specialist</a>🧠🔧</h1>
 
 <h2>👨🏽‍💻 Information Technology Projects:</h2>
 
