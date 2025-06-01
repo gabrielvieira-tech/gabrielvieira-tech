@@ -2,6 +2,8 @@
 
 <h2>👨🏽‍💻 Information Technology Projects:</h2>
 
+- <b>Virtual Private Network (VPN HOMELAB)</b>
+  - [Tracing IP and Geolocation Across Local, Remote, and Encrypted Networks](https://github.com/gabrielvieira-tech/vpnhomelab)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gabrielvieira-tech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/gabrielvieira-tech/post-install-config)
