@@ -2,12 +2,12 @@
 
 <h2>👨🏽‍💻 Information Technology Projects:</h2>
 
-- <b>Virtual Private Network (VPN HOMELAB)</b>
-  - [Tracing IP and Geolocation Across Local, Remote, and Encrypted Networks](https://github.com/gabrielvieira-tech/vpnhomelab)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gabrielvieira-tech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/gabrielvieira-tech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gabrielvieira-tech/ticket-lifecycle)
+- <b>Virtual Private Network (VPN HOMELAB)</b>
+  - [Tracing IP and Geolocation Across Local, Remote, and Encrypted Networks](https://github.com/gabrielvieira-tech/vpnhomelab)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gabrielvieira-tech/configure-ad/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gabrielvieira-tech/azure-network-protocols)
