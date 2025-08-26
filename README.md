@@ -9,7 +9,7 @@
 - <b>Virtual Private Network (VPN Homelab)</b>
   - [Tracing IP and Geolocation Across Local, Remote, and Encrypted Networks](https://github.com/gabrielvieira-tech/vpnhomelab)
 - <b>Linux </b>
-  - [File permissions in Linux](https://github.com/gabrielvieira-tech/vpnhomelab)
+  - [File permissions in Linux](https://github.com/gabrielvieira-tech/linuxpermissions)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gabrielvieira-tech/configure-ad/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gabrielvieira-tech/azure-network-protocols)
